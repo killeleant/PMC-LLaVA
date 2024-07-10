@@ -16,6 +16,8 @@ PMC-LLaVA is a vision language model for the medical domain built with reference
 <p align="center">
     <img src="images/PMC-LLaVA_new.jpg" width="100%"> <br>
 </p>
+
+
 ## Install
 
 1. Clone this repository and Clone LLaVA repository
